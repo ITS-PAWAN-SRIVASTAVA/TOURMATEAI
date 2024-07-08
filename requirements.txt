@@ -1,0 +1,6 @@
+Flask
+pandas
+textblob
+Flask-MySQLdb
+python-dotenv
+waitress

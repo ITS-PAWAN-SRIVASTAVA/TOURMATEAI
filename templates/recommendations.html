@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommended Locations</title>
+    <link rel="stylesheet" href="/static/css/recommendations.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <button id="home-button">Home</button>
+        <h1 class="header">Recommended Locations</h1>
+
+        <div id="recommendations">
+            {% set day_counter = 1 %}
+            {% for recommendation in sorted_recommendations %}
+            <div class="recommendation">
+                <div class="day">Day {{ recommendation.day|default(day_counter) }}</div>
+                <div class="location">{{ recommendation.location }}</div>
+                <div class="type"><span style="font-size: 18px; font-weight: 200;">Trip Type:</span>
+                    {{recommendation.type}}</div>
+                <div class="state">
+                    <p>State: {{ recommendation.state }}</p>
+                </div>
+                <div class="popularity">Popularity: {{ recommendation.popularity }}</div>
+                <div class="review">Review: {{ recommendation.review }}</div>
+                <div class="budget">Budget: ₹{{ recommendation.budget }}</div>
+            </div>
+            {% if not recommendation.day %}
+            {% set day_counter = day_counter + 1 %}
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        <p class="total-budget">Total budget allocated for this trip: ₹{{ remaining_budget }}
+            <button id="budget-disclaimer-button" class="info-button">ℹ️</button>
+        </p>
+
+        <!-- Hidden message for budget disclaimer -->
+        <div id="budget-disclaimer-message" class="hidden-message">
+            <h3>Budget Disclaimer</h3>
+            <p>The displayed budget represents the estimated minimum expenses for experiencing the recommended
+                locations. Please note:</p>
+            <ul>
+                <li>This estimate includes expenses for food, entry fees, and exploration.</li>
+                <li>The cost may vary depending on factors such as transportation, activities, and personal preferences.
+                </li>
+                <li>The cost of accommodation (hotels, etc.) is excluded from this estimate.</li>
+            </ul>
+            <p>This breakdown is intended to provide a general idea of the minimum expenses involved. Actual expenses
+                may differ.</p>
+        </div>
+    </div>
+
+    <script>
+
+        function toggleBudgetDisclaimerMessage() {
+            const budgetDisclaimerMessage = document.getElementById('budget-disclaimer-message');
+            budgetDisclaimerMessage.classList.toggle('hidden-message-visible');
+        }
+
+        window.onload = function () {
+            const budgetDisclaimerButton = document.getElementById('budget-disclaimer-button');
+            budgetDisclaimerButton.addEventListener('click', toggleBudgetDisclaimerMessage);
+
+            // Add event listener to the home button
+            var homeButton = document.getElementById("home-button");
+            homeButton.addEventListener("click", function () {
+                // Redirect to the homepage
+                window.location.href = "/";
+            });
+
+            // Call the function to create Google Maps links
+            const recommendations = document.querySelectorAll('.recommendation');
+            recommendations.forEach(recommendation => {
+                const location = recommendation.querySelector('.location').textContent.trim().split(' (')[0];
+                const link = createGoogleMapLink(location);
+
+                if (!link) return; // Skip if link is empty
+
+                const linkElement = document.createElement('a');
+                linkElement.href = link;
+                linkElement.textContent = 'View on Google Maps';
+                linkElement.className = 'recommendation-link';
+                linkElement.target = '_blank';
+                linkElement.rel = 'noopener noreferrer';
+
+                recommendation.appendChild(linkElement);
+            });
+        };
+
+        // Function to create Google Maps link
+        function createGoogleMapLink(location) {
+            if (!location) return ''; // Return empty string if location is undefined or empty
+            return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(location)}`;
+        }
+    </script>
+
+</body>
+
+</html>

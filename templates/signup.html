@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Sign Up | TourMateAI </title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/signupstyle.css') }}">
+</head>
+
+<body>
+	<div class="wrapper">
+		<div class="logo">
+			<img src="/static/img/maplogo.png" alt="TourMateAI Logo">
+			<h1>TourMate<span style="color: red;">AI</span></h1>
+		</div>
+		<h2>Registration</h2>
+		<form action="/signup" method="post">
+			<div class="input-box">
+				<input type="text" placeholder="Enter your name" name="name" required>
+			</div>
+			<div class="input-box">
+				<input type="text" placeholder="Enter your email" name="email" required>
+			</div>
+			<div class="input-box">
+				<input type="password" placeholder="Create password" name="password" required>
+
+			</div>
+			<div class="input-box">
+				<input type="password" placeholder="Confirm password" name="confirm_password" required>
+
+			</div>
+			<div class="input-box">
+				<select name="type" required>
+					<option value="" disabled selected hidden>Select Type</option>
+					<option value="Historical">Historical</option>
+					<option value="Nature">Nature</option>
+					<option value="Beach">Beach</option>
+					<option value="Adventure">Adventure</option>
+					<option value="Unique">Unique</option>
+					<option value="Wildlife">Wildlife</option>
+					<option value="City">City</option>
+					<option value="Spiritual">Spiritual</option>
+					<option value="Entertainment">Entertainment</option>
+					<option value="Village">Village</option>
+				</select>
+			</div>
+			<div class="input-box button">
+				<input type="submit" value="Register Now">
+			</div>
+			<div class="text">
+				<h3>Already have an account? <a href="/login">Login now</a></h3>
+			</div>
+		</form>
+	</div>
+</body>
+
+</html>

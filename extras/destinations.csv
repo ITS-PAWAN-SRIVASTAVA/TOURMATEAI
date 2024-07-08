@@ -1,0 +1,151 @@
+User,Place Name,Tourist Location,Budget,Duration,Best Time to Visit,Popularity,Review,Type
+User230,"Agatti Island, Lakshadweep",Agatti Island,1200,4,Winter,High,"""Coral reefs, scuba diving and water sports.""",Adventure
+User1,"Agra",,Taj Mahal,1000,3,Year-round,High,"""Impressive architecture, loved the visit.""",Historical
+User1,"Agra",,Agra Fort,1200,4,Year-round,High,"""Historical marvel, enjoyed exploring.""",Historical
+User1,"Agra",,Fatehpur Sikri,1300,5,Winter,Medium,"""Fascinating historical site, great visit.""",Historical
+User1,"Agra",,Akbar Tomb Sikandra,1100,3,Year-round,High,"""Beautiful tomb, peaceful atmosphere.""",Historical
+User1,"Agra",,Mariam tomb Sikandra,1000,3,Year-round,Medium,"""Serene and well-maintained tomb.""",Historical
+User1,"Agra",,Itimad-ud-Daulah-Tomb,900,2,Year-round,Medium,"""Hidden gem, enjoyed the architecture.""",Historical
+User1,"Agra",,Ram Bagh,800,2,Year-round,Low,"""Quiet garden, good for a stroll.""",Nature
+User1,"Agra",,Mehtab Bagh,900,2,Year-round,Medium,"""Scenic views of the Taj Mahal.""",Nature
+User1,"Agra",,Mausoleum,950,3,Year-round,Medium,"""Rich history, worth a visit.""",Historical
+User214,"Aurangabad, Maharashtra",Ajanta and Ellora Caves,1100,3,Winter,High,"""Ancient rock-cut caves, UNESCO World Heritage.""",Historical
+User227,"Alleppey, Kerala",Alleppey,1000,3,Winter,High,"""Backwaters cruise, serene and scenic.""",Nature
+User218,"Araku Valley, Andhra Pradesh",Araku Valley,1100,3,Winter,High,"""Hill station, coffee plantations.""",Nature
+User223,"Auli, Uttarakhand",Auli,1200,4,Winter,High,"""Skiing destination, snow-covered slopes.""",Adventure
+User232,"Auroville, Puducherry",Auroville,950,2,Year-round,High,"""Experimental township, diverse community living.""",Unique
+User220,"Bandhavgarh National Park, MP",Bandhavgarh National Park,1200,4,Winter,High,"""Tiger reserve, wildlife safari.""",Wildlife
+User230,"Bangaram Island, Lakshadweep",Bangaram Island,1300,5,Winter,High,"""Untouched beauty, pristine beaches.""",Beach
+User231,"Baratang Island, Andaman",Baratang Island,900,2,Year-round,Medium,"""Limestone caves, mangrove forests.""",Nature
+User211,"Barnawapara Wildlife Sanctuary, Chattisgarh",Barnawapara Wildlife Sanctuary,1100,3,Winter,High,"""Rich biodiversity, wildlife enthusiast's delight.""",Wildlife
+User101,"Kasargod, Kerala",Bekal Fort,1100,4,Winter,High,"""Scenic beauty, enjoyed the historic fort.""",Historical
+User225,"Betla National Park, Jharkhand",Betla National Park,1000,3,Winter,High,"""Tiger reserve, wildlife safari.""",Wildlife
+User220,"Bhimbetka Caves, Madhya Pradesh",Bhimbetka Caves,950,2,Year-round,Medium,"""Prehistoric cave art, UNESCO World Heritage.""",Historical
+User204,"Bhuj, Gujarat",Kutch Desert Festival,1300,5,Winter,High,"""Cultural extravaganza, vibrant atmosphere.""",Cultural
+User204,"Bhuj, Gujarat",White Rann of Kutch,1000,3,Winter,High,"""Spectacular white desert, unique experience.""",Nature
+User224,"Bodh Gaya, Bihar",Bodh Gaya,950,2,Year-round,High,"""Buddhist pilgrimage, Mahabodhi Temple.""",Spiritual
+User212,"Boudhanath Stupa, Kathmandu",Boudhanath Stupa,1000,3,Year-round,High,"""Buddhist stupa, serene surroundings.""",Spiritual
+User200,"Mumbai, Maharashtra",Bhaja Cave Temple & Inscriptions,950,3,Winter,Medium,"""Ancient cave, fascinating inscriptions.""",Historical
+User231,"Cellular Jail, Andaman Islands",Cellular Jail,1000,3,Year-round,High,"""Historical prison, light and sound show.""",Historical
+User219,"Charminar, Telangana",Charminar,800,2,Year-round,High,"""Iconic monument, historical charm.""",Historical
+User216,"Chilika Lake, Odisha",Chilika Lake,1100,3,Winter,High,"""Largest coastal lagoon, birdwatcher's paradise.""",Nature
+User211,"Chitrakoot Falls, Chattisgarh",Chitrakoot Falls,1000,3,Monsoon,High,"""Widest waterfall, natural beauty.""",Nature
+User200,"Coorg, Karnataka",Mysore,900,2,Year-round,Medium,"""Tranquil escape, beautiful coffee plantations.""",City
+User217,"Darjeeling, West Bengal",Darjeeling,1000,3,Summer,High,"""Tea gardens, stunning views of the Himalayas.""",Nature
+User209,"Dharamshala, Himachal Pradesh",Dharamshala,900,2,Year-round,Medium,"""Tibetan culture, scenic landscapes.""",Cultural
+User215,"Diu, Daman and Diu",Diu,800,2,Year-round,Medium,"""Seaside escape, Portuguese influence.""",Beach
+User221,"Lakhimpur Kheri, Uttar Pradesh",Dudhwa National Park,1100,3,Winter,High,"""Wildlife sanctuary, diverse flora and fauna.""",Wildlife
+User212,"Durbar Square, Kathmandu",Durbar Square,1100,3,Year-round,Medium,"""Historical square, cultural insights.""",Historical
+User207,"Dzukou Valley, Nagaland",Dzukou Valley,1200,4,Summer,High,"""Trekker's paradise, vibrant landscapes.""",Adventure
+User214,"Mumbai, Maharashtra",Elephanta Caves,1000,3,Year-round,Medium,"""Historical caves, intricate sculptures.""",Historical
+User221,"Fatehpur Sikri, Uttar Pradesh",Fatehpur Sikri,1300,5,Winter,High,"""Historical marvel, architectural grandeur.""",Historical
+User102,"Thirumayam, Tiruchirappalli",Fort Museum,850,2,Year-round,Low,"""Small museum, gained historical insights.""",Historical
+User102,"Dindigul, Tiruchirappalli","Fort on Rock, Dindigul",1100,4,Year-round,High,"""Stunning views from the fort.""",Historical
+User101,"Kannur, Kerala","Fort St. Angelo, Kannur",1300,5,Winter,High,"""Picturesque fort, breathtaking views.""",Historical
+User102,"Fort Vattakottai, Tiruchirappalli",Fort Vattakottai,900,2,Year-round,Medium,"""Well-preserved fort, nice trek.""",Historical
+User102,"Gingee Fort, Chennai","Gingee Fort, Gingee",1000,3,Winter,Medium,"""Impressive fort, enjoyed the trek.""",Historical
+User200,Goa,Baga Beach,800,7,Winter,High,"""Fantastic beach vibes, wonderful time.""",Beach
+User200,Goa,Anjuna Beach,900,6,Winter,High,"""Lively atmosphere, enjoyed the beach party.""",Beach
+User200,Goa,Dudhsagar Waterfalls,1200,5,Monsoon,Medium,"""Spectacular waterfall, thrilling experience.""",Nature
+User219,"Golconda Fort, Telangana",Golconda Fort,900,2,Year-round,High,"""Historical fort, panoramic views.""",Historical
+User208,"Amritsar, Punjab",Golden Temple,1000,3,Year-round,High,"""Spiritual haven, stunning architecture.""",Spiritual
+User102,"Group of Monuments, Mamallapuram, Chennai",Group of Monuments Mamallapuram,900,2,Year-round,High,"""Incredible sculptures, learned a lot.""",Historical
+User226,"Gulmarg, Jammu",Gulmarg,1200,4,Winter,High,"""Snowy paradise, skiing and winter sports.""",Adventure
+User206,"Gurudongmar Lake, Sikkim",Gurudongmar Lake,1400,5,Summer,High,"""High-altitude lake, pristine beauty.""",Nature
+User202,"Haridwar, Uttarakhand",Haridwar,700,2,Year-round,High,"""Holy dip in the Ganges, spiritual experience.""",Spiritual
+User229,"Hauz Khas Village, Delhi",Hauz Khas Village,1000,3,Year-round,High,"""Bohemian charm, trendy cafes and boutiques.""",Urban
+User225,"Hundru Falls, Jharkhand",Hundru Falls,850,2,Monsoon,Medium,"""Picturesque waterfall, natural beauty.""",Nature
+User229,"India Habitat Centre, Delhi",India Habitat Centre,950,2,Year-round,High,"""Cultural hub, art exhibitions and performances.""",Cultural
+User207,"Intanki Wildlife Sanctuary, Nagaland",Intanki Wildlife Sanctuary,1000,3,Winter,Medium,"""Diverse wildlife, nature enthusiasts' delight.""",Wildlife
+User216,"Puri, Odisha",Jagannath Temple,1200,4,Year-round,High,"""Sacred pilgrimage, vibrant festivals.""",Spiritual
+User200,"Jaipur, Rajasthan",Hawa Mahal,1000,3,Year-round,Medium,"""Architectural gem, loved the intricate design.""",City
+User208,"Jallianwala Bagh, Punjab",Jallianwala Bagh,900,2,Year-round,Medium,"""Historical tragedy, somber reflection.""",Historical
+User215,"Jampore Beach, Daman and Diu",Jampore Beach,900,2,Year-round,Medium,"""Peaceful beach, serene atmosphere.""",Beach
+User200,"Mumbai, Maharashtra","Janjira Fort, Murd",1100,3,Winter,Medium,"""Sea fort, enjoyed the boat ride.""",Historical
+User3,"Jhansi, Uttar Pradesh",Gupta Temple & Varah Temple,1000,3,Year-round,Medium,"""Architectural beauty, peaceful ambiance.""",Historical
+User3,"Jhansi, Uttar Pradesh",Kalinjar Fort,1300,5,Winter,High,"""Historical fort, stunning views.""",Historical
+User3,"Jhansi, Uttar Pradesh",Rani Lakshmi Bai Mahal,1100,4,Winter,Medium,"""Tribute to a brave queen.""",Historical
+User3,"Jhansi, Uttar Pradesh",Rani Jhansi Fort,1200,4,Winter,Medium,"""Rich history, well-preserved fort.""",Historical
+User205,"Kamakhya Temple, Assam",Kamakhya Temple,1100,3,Year-round,High,"""Spiritual vibes, ancient architecture.""",Spiritual
+User226,"Katra, Jammu",Vaishno Devi,950,2,Year-round,High,"""Hindu pilgrimage, trek to the holy cave.""",Spiritual
+User230,"Kavaratti, Lakshadweep",Kavaratti,1100,3,Year-round,High,"""Lagoon beauty, water activities.""",Nature
+User205,"Kaziranga National Park, Assam",Kaziranga National Park,1200,4,Winter,High,"""Wildlife adventure, unique flora and fauna.""",Wildlife
+User223,"Kedarnath, Uttarakhand",Kedarnath,1000,3,Summer,High,"""Himalayan pilgrimage, scenic trek.""",Spiritual
+User201,"Khajuraho, Madhya Pradesh",Khajuraho,1100,3,Winter,High,"""Intricate temple carvings, rich history.""",Historical
+User201,"Khajuraho, Madhya Pradesh",Raneh Falls,900,2,Monsoon,Medium,"""Picturesque waterfall, enjoyed the beauty.""",Nature
+User201,"Khajuraho, Madhya Pradesh",Kandariya Mahadeva Temple,1200,4,Winter,High,"""Architectural marvel, spiritual ambiance.""",Historical
+User201,"Khajuraho, Madhya Pradesh",Duladeo Temple,1000,3,Year-round,Medium,"""Serene temple, peaceful surroundings.""",Historical
+User220,"Khajuraho, Madhya Pradesh",Khajuraho,1100,3,Winter,High,"""Intricate temple carvings, rich history.""",Historical
+User207,"Kohima War Cemetery, Nagaland",Kohima War Cemetery,900,2,Year-round,Medium,"""Historical significance, peaceful memorial.""",Historical
+User200,"Mumbai, Maharashtra","Kolaba Fort, Alibag",800,2,Year-round,Medium,"""Seaside fort, serene surroundings.""",Historical
+User216,"Konark Sun Temple, Odisha",Konark Sun Temple,1000,3,Year-round,High,"""Architectural marvel, sun-inspired design.""",Historical
+User200,"Mumbai, Maharashtra",Kondiote Caves,900,2,Year-round,Medium,"""Hidden caves, interesting exploration.""",Historical
+User214,"Lonavala-Khandala, Maharashtra",Lonavala-Khandala,950,2,Monsoon,Medium,"""Scenic hill station, popular monsoon destination.""",Nature
+User229,"Lotus Temple, Delhi",Lotus Temple,900,2,Year-round,High,"""Bah�'� House of Worship, stunning lotus-shaped structure.""",Spiritual
+User2,"Lucknow",,Site of Sahet mahet,1200,4,Winter,Medium,"""Cultural heritage, enjoyed exploring.""",Historical
+User2,"Lucknow",,Residency Building,1100,3,Winter,Low,"""Historical site, informative visit.""",Historical
+User2,"Lucknow",,Piprahwa & Ganwaria,1400,5,Spring,High,"""Serene surroundings, peaceful experience.""",Nature
+User222,"Magnetic Hill, Leh Ladakh",Magnetic Hill,900,2,Year-round,Medium,"""Optical illusion, magnetic phenomenon.""",Unique
+User213,"Mahabalipuram, Tamil Nadu",Mahabalipuram,900,2,Year-round,Medium,"""Ancient monuments, seaside charm.""",Historical
+User205,"Majuli Island, Assam",Majuli Island,1000,3,Winter,Medium,"""Largest river island, serene surroundings.""",Nature
+User209,"Manali, Himachal Pradesh",Manali,1200,4,Summer,High,"""Snow-capped mountains, vibrant markets.""",Nature
+User204,"Mandvi, Gujarat",Mandvi Beach,900,2,Year-round,Medium,"""Seaside escape, enjoyed the beach.""",Beach
+User204,"Mandvi, Gujarat",Vijay Vilas Palace,1100,3,Winter,High,"""Royal architecture, fascinating history.""",Historical
+User101,"Mattancherry Palace, Kochi, Kerala",Mattancherry Palace Museum Kochi,1200,3,Year-round,Medium,"""Cultural insights, well-maintained museum.""",Historical
+User200,"Mehrangarh Fort - Jodhpur, Rajasthan",Mehrangarh Fort,1200,4,Winter,High,"""Historical marvel, breathtaking views.""",Historical
+User102,"Moovarkoil, Kodumbalur, Tiruchirappalli","Moovarkoil, Kodumbalur",1200,4,Winter,Medium,"""Rich cultural heritage, peaceful surroundings.""",Historical
+User200,"Mysore, Karnataka",Mysore,1000,3,Winter,High,"""Historical city, majestic palaces.""",City
+User218,"Nagarjunakonda, Andhra Pradesh",Nagarjunakonda,900,2,Year-round,Medium,"""Historical site, ancient ruins.""",Historical
+User215,"Naida Caves, Daman and Diu",Naida Caves,850,2,Year-round,Low,"""Ancient caves, historical significance.""",Historical
+User224,"Nalanda, Bihar",Nalanda,900,2,Year-round,Medium,"""Ancient university ruins, historical importance.""",Historical
+User210,"Namdapha National Park, Arunachal Pradesh",Namdapha National Park,1200,4,Winter,High,"""Biodiversity hotspot, wildlife exploration.""",Wildlife
+User206,"Nathula Pass, Sikkim",Nathula Pass,1300,5,Winter,High,"""Snow-covered landscapes, breathtaking views.""",Adventure
+User102,"Sittannavasal, Tiruchirappalli",Natural Cave with inscription eladipattam,950,2,Year-round,Medium,"""Ancient cave, interesting inscriptions.""",Historical
+User200,New Delhi,Red Fort,1300,5,Winter,High,"""Iconic landmark, enjoyed the historical tour.""",City
+User200,New Delhi,India Gate,1100,3,Year-round,High,"""Patriotic vibes, beautiful architecture.""",City
+User222,"Nubra Valley, Leh Ladakh",Nubra Valley,1200,4,Summer,High,"""Desert landscape, Bactrian camel rides.""",Adventure
+User200,"Sholapur, Maharshtra",Old Fort,850,2,Year-round,Low,"""Less crowded, peaceful visit.""",Historical
+User213,"Ooty, Tamil Nadu",Ooty,1200,4,Summer,High,"""Hill station, lush greenery.""",Nature
+User101,"Palakkad, Kerala","Fort, Palakkad",1000,3,Year-round,Medium,"""Historical charm, pleasant visit.""",Historical
+User222,"Pangong Lake, Leh Ladakh",Pangong Lake,1400,5,Summer,High,"""High-altitude lake, stunning reflections.""",Nature
+User201,"Panna, Madhya Pradesh",Panna National Park,1500,5,Winter,High,"""Wildlife adventure, beautiful landscapes.""",Nature
+User232,"Paradise Beach, Puducherry",Paradise Beach,1000,3,Year-round,High,"""Island beauty, ferry ride and clear blue waters.""",Beach
+User225,"Parasnath Hill, Jharkhand",Parasnath Hill,900,2,Year-round,Medium,"""Jain pilgrimage, panoramic views.""",Spiritual
+User212,"Pashupatinath Temple, Kathmandu",Pashupatinath Temple,1200,4,Year-round,High,"""Sacred Hindu temple, spiritual ambiance.""",Spiritual
+User226,"Patnitop, Jammu",Patnitop,900,2,Year-round,Medium,"""Hill station, panoramic views of the Himalayas.""",Nature
+User228,"Pinjore Gardens, Haryana",Pinjore Gardens,850,2,Year-round,Medium,"""Mughal-style gardens, peaceful ambiance.""",Nature
+User232,"Promenade Beach, Puducherry",Promenade Beach,900,2,Year-round,High,"""Seaside promenade, relaxing atmosphere.""",Beach
+User231,"Radhanagar Beach, Andaman",Radhanagar Beach,1100,3,Winter,High,"""Asia's best beach, white sands and turquoise waters.""",Beach
+User200,"Raigad Fort, Mumbai",Raigad Fort,1000,4,Winter,High,"""Historical fort, panoramic views.""",Historical
+User224,"Rajgir, Bihar",Rajgir,850,2,Year-round,Medium,"""Historical city, hot springs.""",Historical
+User213,"Rameswaram, Tamil Nadu",Rameswaram,1000,3,Year-round,High,"""Sacred pilgrimage, scenic landscapes.""",Spiritual
+User219,"Ramoji Film City, Telangana",Ramoji Film City,1000,3,Year-round,High,"""Bollywood experience, film sets and studios.""",Entertainment
+User202,"Rishikesh, Uttarakhand",Rishikesh,800,3,Year-round,High,"""Spiritual vibes, enjoyed the Ganga Aarti.""",Spiritual
+User202,"Rishikesh, Uttarakhand",Neelkanth Mahadev Temple,900,2,Year-round,Medium,"""Scenic temple, breathtaking views.""",Spiritual
+User102,"Sittannavasasl, Tiruchirappalli",Rock-cut Jain Temple,1000,3,Year-round,Medium,"""Artistic marvel, spiritual experience.""",Historical
+User206,"Rumtek Monastery, Sikkim",Rumtek Monastery,1100,3,Year-round,Medium,"""Sacred monastery, peaceful ambiance.""",Spiritual
+User4,"Sarnath, Uttar Pradesh",Lord Cornwallis Tomb,900,2,Year-round,Low,"""Peaceful atmosphere, enjoyed the visit.""",Historical
+User4,"Sarnath, Uttar Pradesh","Old Fort (Shahi Fort), Jaunpur",1000,3,Year-round,Medium,"""Historical significance, informative visit.""",Historical
+User4,"Sarnath, Uttar Pradesh",Observatory of Man Singh,1100,3,Year-round,High,"""Astronomical marvel, interesting visit.""",Historical
+User4,"Sarnath, Uttar Pradesh",Excavated Remains at Sarnath,950,2,Year-round,Medium,"""Archaeological site, well-preserved.""",Historical
+User4,"Sarnath, Uttar Pradesh",Tomb of Lal Khan,850,2,Year-round,Low,"""Simple tomb, historical significance.""",Historical
+User210,"Sela Pass, Arunachal Pradesh",Sela Pass,1100,3,Year-round,Medium,"""Mountain pass, picturesque landscapes.""",Adventure
+User203,"Shillong, Meghalaya",Shillong,1000,4,Summer,Medium,"""Pleasant weather, enjoyed the local culture.""",City
+User203,"Shillong, Meghalaya",Umiam Lake,1200,3,Winter,High,"""Scenic lake, peaceful boat ride.""",Nature
+User203,"Shillong, Meghalaya",Mawlynnong Village,1100,3,Monsoon,Medium,"""Cleanest village, eco-friendly experience.""",Village
+User211,"Sirpur, Chattisgarh",Sirpur,900,2,Year-round,Medium,"""Archaeological site, historical significance.""",Historical
+User209,"Solang Valley, Himachal Pradesh",Solang Valley,1100,3,Winter,High,"""Adventure hub, skiing and paragliding.""",Adventure
+User228,"Sultanpur National Park, Haryana",Sultanpur National Park,900,2,Year-round,High,"""Birdwatcher's paradise, diverse avian species.""",Wildlife
+User217,"Sundarbans, West Bengal",Sundarbans,1300,5,Winter,High,"""Mangrove forests, unique wildlife.""",Wildlife
+User228,"Surajkund Mela, Haryana",Surajkund Mela,800,2,Winter,High,"""Crafts fair, vibrant cultural experience.""",Cultural
+User210,"Tawang Monastery, Arunachal Pradesh",Tawang Monastery,1300,5,Summer,High,"""Buddhist monastery, panoramic views.""",Spiritual
+User227,"Thekkady, Kerala",Thekkady,1100,3,Winter,High,"""Wildlife sanctuary, boat safari in Periyar River.""",Wildlife
+User102,"Tiger-headed Rock cut temple & two other monuments, Saluvankuppam, Chennai",Saluvankuppam,950,3,Year-round,Medium,"""Unique architecture, informative visit.""",Historical
+User102,"Tirumalai Nayak's Palace, Srivilliputhur, Tiruchirappalli",Tirumalai Nayak's Palace,900,2,Year-round,Low,"""Historical palace, moderate experience.""",Historical
+User218,"Tirupati, Andhra Pradesh",Tirupati,950,2,Year-round,High,"""Sacred pilgrimage, divine atmosphere.""",Spiritual
+User200,"Varanasi, Uttar Pradesh",Varanasi,950,2,Year-round,Medium,"""Spiritual experience, mesmerizing vibes.""",City
+User223,"Valley of Flowers, Uttarakhand",Valley of Flowers,1100,3,Summer,High,"""Floral paradise, vibrant blooms.""",Nature
+User217,"Victoria Memorial, West Bengal",Victoria Memorial,900,2,Year-round,High,"""Historical monument, lush gardens.""",Historical
+User221,"Vrindavan, Uttar Pradesh",Vrindavan,1000,3,Year-round,High,"""Religious town, vibrant festivities.""",Spiritual
+User208,"Wagah Border Ceremony, Punjab",Wagah Border Ceremony,800,2,Year-round,High,"""Patriotic spectacle, energetic atmosphere.""",Cultural
+User227,"Wayanad, Kerala",Wayanad,950,2,Year-round,Medium,"""Lush green landscapes, tea and spice plantations.""",Nature

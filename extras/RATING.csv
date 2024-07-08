@@ -1,0 +1,1000 @@
+ReviewID,DESTINATIONID,UserID,Rating,ReviewText
+1,71,327,2,Incredible monument!
+2,129,783,1,Loved the beaches!
+3,5,12,2,A historical wonder
+4,34,959,3,Incredible monument!
+5,130,353,2,Loved the beaches!
+6,128,408,4,A historical wonder
+7,4,735,3,Incredible monument!
+8,44,664,1,Loved the beaches!
+9,67,330,2,A historical wonder
+10,24,109,5,Incredible monument!
+11,104,386,4,Loved the beaches!
+12,114,813,2,A historical wonder
+13,148,766,4,Incredible monument!
+14,90,626,1,Loved the beaches!
+15,75,403,5,A historical wonder
+16,104,20,4,Incredible monument!
+17,90,554,5,Loved the beaches!
+18,70,910,5,A historical wonder
+19,128,69,1,Incredible monument!
+20,67,167,5,Loved the beaches!
+21,150,935,1,A historical wonder
+22,1,770,5,Incredible monument!
+23,139,371,5,Loved the beaches!
+24,123,30,4,A historical wonder
+25,134,842,1,Incredible monument!
+26,54,591,5,Loved the beaches!
+27,12,454,5,A historical wonder
+28,56,982,2,Incredible monument!
+29,117,796,4,Loved the beaches!
+30,69,356,1,A historical wonder
+31,59,513,1,Incredible monument!
+32,56,322,3,Loved the beaches!
+33,118,332,4,A historical wonder
+34,36,979,4,Incredible monument!
+35,16,637,1,Loved the beaches!
+36,24,872,3,A historical wonder
+37,147,560,2,Incredible monument!
+38,104,551,3,Loved the beaches!
+39,84,133,2,A historical wonder
+40,63,497,4,Incredible monument!
+41,90,738,2,Loved the beaches!
+42,24,410,3,A historical wonder
+43,47,501,5,Incredible monument!
+44,57,539,1,Loved the beaches!
+45,24,535,4,A historical wonder
+46,104,284,3,Incredible monument!
+47,97,655,1,Loved the beaches!
+48,88,140,1,A historical wonder
+49,29,244,2,Incredible monument!
+50,115,480,2,Loved the beaches!
+51,125,488,1,A historical wonder
+52,9,211,1,Incredible monument!
+53,85,875,4,Loved the beaches!
+54,148,321,5,A historical wonder
+55,79,903,1,Incredible monument!
+56,147,499,2,Loved the beaches!
+57,33,554,2,A historical wonder
+58,60,385,1,Incredible monument!
+59,81,135,3,Loved the beaches!
+60,132,732,1,A historical wonder
+61,134,851,1,Incredible monument!
+62,43,572,3,Loved the beaches!
+63,20,103,2,A historical wonder
+64,69,668,1,Incredible monument!
+65,59,569,1,Loved the beaches!
+66,21,179,2,A historical wonder
+67,37,505,1,Incredible monument!
+68,124,138,1,Loved the beaches!
+69,132,740,1,A historical wonder
+70,10,989,4,Incredible monument!
+71,70,993,3,Loved the beaches!
+72,23,112,4,A historical wonder
+73,104,955,3,Incredible monument!
+74,52,660,1,Loved the beaches!
+75,23,684,4,A historical wonder
+76,140,548,4,Incredible monument!
+77,22,192,2,Loved the beaches!
+78,149,340,4,A historical wonder
+79,146,575,5,Incredible monument!
+80,42,182,3,Loved the beaches!
+81,60,359,3,A historical wonder
+82,40,245,3,Incredible monument!
+83,30,862,4,Loved the beaches!
+84,80,6,5,A historical wonder
+85,98,757,1,Incredible monument!
+86,34,289,1,Loved the beaches!
+87,84,604,5,A historical wonder
+88,56,493,4,Incredible monument!
+89,109,49,3,Loved the beaches!
+90,2,558,2,A historical wonder
+91,95,307,4,Incredible monument!
+92,12,628,1,Loved the beaches!
+93,39,225,4,A historical wonder
+94,24,538,1,Incredible monument!
+95,14,590,3,Loved the beaches!
+96,110,700,4,A historical wonder
+97,72,563,3,Incredible monument!
+98,145,937,4,Loved the beaches!
+99,141,624,1,A historical wonder
+100,81,329,3,Incredible monument!
+101,147,354,3,Loved the beaches!
+102,8,251,5,A historical wonder
+103,135,885,4,Incredible monument!
+104,22,568,4,Loved the beaches!
+105,87,521,1,A historical wonder
+106,13,944,1,Incredible monument!
+107,28,212,5,Loved the beaches!
+108,99,397,4,A historical wonder
+109,103,99,4,Incredible monument!
+110,106,474,2,Loved the beaches!
+111,106,152,3,A historical wonder
+112,88,494,3,Incredible monument!
+113,4,242,3,Loved the beaches!
+114,17,489,2,A historical wonder
+115,7,2,5,Incredible monument!
+116,66,43,4,Loved the beaches!
+117,87,84,3,A historical wonder
+118,148,927,4,Incredible monument!
+119,79,446,4,Loved the beaches!
+120,100,899,5,A historical wonder
+121,145,415,5,Incredible monument!
+122,27,640,1,Loved the beaches!
+123,146,218,5,A historical wonder
+124,110,128,5,Incredible monument!
+125,100,940,2,Loved the beaches!
+126,12,682,5,A historical wonder
+127,93,805,1,Incredible monument!
+128,6,851,2,Loved the beaches!
+129,9,509,3,A historical wonder
+130,2,528,3,Incredible monument!
+131,81,207,3,Loved the beaches!
+132,127,54,1,A historical wonder
+133,123,169,3,Incredible monument!
+134,85,764,3,Loved the beaches!
+135,97,919,1,A historical wonder
+136,64,552,1,Incredible monument!
+137,5,612,1,Loved the beaches!
+138,137,493,4,A historical wonder
+139,47,703,2,Incredible monument!
+140,27,10,3,Loved the beaches!
+141,144,144,2,A historical wonder
+142,16,221,3,Incredible monument!
+143,130,582,2,Loved the beaches!
+144,53,398,4,A historical wonder
+145,49,397,4,Incredible monument!
+146,28,171,4,Loved the beaches!
+147,130,10,1,A historical wonder
+148,36,34,4,Incredible monument!
+149,70,589,2,Loved the beaches!
+150,15,47,5,A historical wonder
+151,108,943,2,Incredible monument!
+152,93,816,2,Loved the beaches!
+153,63,490,2,A historical wonder
+154,101,478,4,Incredible monument!
+155,14,639,3,Loved the beaches!
+156,143,708,4,A historical wonder
+157,18,524,1,Incredible monument!
+158,69,596,5,Loved the beaches!
+159,90,919,1,A historical wonder
+160,115,791,4,Incredible monument!
+161,75,585,1,Loved the beaches!
+162,64,399,3,A historical wonder
+163,17,75,1,Incredible monument!
+164,148,862,5,Loved the beaches!
+165,147,552,4,A historical wonder
+166,116,752,1,Incredible monument!
+167,132,926,2,Loved the beaches!
+168,150,338,2,A historical wonder
+169,26,472,2,Incredible monument!
+170,87,435,4,Loved the beaches!
+171,33,845,3,A historical wonder
+172,105,992,3,Incredible monument!
+173,4,109,5,Loved the beaches!
+174,97,493,4,A historical wonder
+175,121,326,3,Incredible monument!
+176,91,83,1,Loved the beaches!
+177,118,123,3,A historical wonder
+178,24,427,2,Incredible monument!
+179,99,333,5,Loved the beaches!
+180,88,716,3,A historical wonder
+181,101,433,1,Incredible monument!
+182,109,738,4,Loved the beaches!
+183,75,736,5,A historical wonder
+184,22,918,1,Incredible monument!
+185,115,981,4,Loved the beaches!
+186,146,262,4,A historical wonder
+187,44,91,2,Incredible monument!
+188,63,240,5,Loved the beaches!
+189,67,124,2,A historical wonder
+190,75,364,5,Incredible monument!
+191,83,466,1,Loved the beaches!
+192,62,391,4,A historical wonder
+193,53,533,3,Incredible monument!
+194,5,274,4,Loved the beaches!
+195,8,223,2,A historical wonder
+196,126,798,1,Incredible monument!
+197,8,894,3,Loved the beaches!
+198,116,101,2,A historical wonder
+199,97,503,2,Incredible monument!
+200,30,113,4,Loved the beaches!
+201,44,363,5,A historical wonder
+202,70,71,2,Incredible monument!
+203,113,556,4,Loved the beaches!
+204,150,48,3,A historical wonder
+205,56,674,1,Incredible monument!
+206,6,114,5,Loved the beaches!
+207,35,151,4,A historical wonder
+208,28,103,4,Incredible monument!
+209,68,949,2,Loved the beaches!
+210,93,786,5,A historical wonder
+211,112,399,4,Incredible monument!
+212,5,419,4,Loved the beaches!
+213,13,192,4,A historical wonder
+214,99,76,5,Incredible monument!
+215,75,330,1,Loved the beaches!
+216,133,336,4,A historical wonder
+217,27,941,4,Incredible monument!
+218,50,101,3,Loved the beaches!
+219,121,544,5,A historical wonder
+220,78,125,3,Incredible monument!
+221,28,448,4,Loved the beaches!
+222,50,664,5,A historical wonder
+223,16,814,2,Incredible monument!
+224,39,564,3,Loved the beaches!
+225,72,474,2,A historical wonder
+226,84,128,2,Incredible monument!
+227,10,502,3,Loved the beaches!
+228,130,260,1,A historical wonder
+229,34,475,5,Incredible monument!
+230,124,703,2,Loved the beaches!
+231,142,127,4,A historical wonder
+232,13,554,3,Incredible monument!
+233,144,777,5,Loved the beaches!
+234,71,816,2,A historical wonder
+235,46,711,4,Incredible monument!
+236,106,169,1,Loved the beaches!
+237,26,289,5,A historical wonder
+238,31,874,2,Incredible monument!
+239,139,719,1,Loved the beaches!
+240,80,29,4,A historical wonder
+241,112,421,4,Incredible monument!
+242,96,692,1,Loved the beaches!
+243,91,190,4,A historical wonder
+244,77,145,1,Incredible monument!
+245,58,646,5,Loved the beaches!
+246,42,947,1,A historical wonder
+247,103,800,4,Incredible monument!
+248,137,506,4,Loved the beaches!
+249,83,987,4,A historical wonder
+250,4,663,4,Incredible monument!
+251,10,848,3,Loved the beaches!
+252,78,484,3,A historical wonder
+253,127,117,5,Incredible monument!
+254,115,239,1,Loved the beaches!
+255,102,871,1,A historical wonder
+256,61,364,5,Incredible monument!
+257,138,20,4,Loved the beaches!
+258,150,845,1,A historical wonder
+259,80,733,4,Incredible monument!
+260,28,477,2,Loved the beaches!
+261,40,544,5,A historical wonder
+262,84,256,5,Incredible monument!
+263,124,76,2,Loved the beaches!
+264,63,662,1,A historical wonder
+265,79,14,1,Incredible monument!
+266,130,133,5,Loved the beaches!
+267,12,285,1,A historical wonder
+268,80,666,2,Incredible monument!
+269,106,20,2,Loved the beaches!
+270,28,58,5,A historical wonder
+271,114,769,2,Incredible monument!
+272,76,834,4,Loved the beaches!
+273,74,81,4,A historical wonder
+274,11,521,1,Incredible monument!
+275,51,591,4,Loved the beaches!
+276,111,100,2,A historical wonder
+277,22,200,4,Incredible monument!
+278,24,373,4,Loved the beaches!
+279,99,860,1,A historical wonder
+280,121,39,5,Incredible monument!
+281,105,571,4,Loved the beaches!
+282,12,181,4,A historical wonder
+283,53,999,3,Incredible monument!
+284,94,316,2,Loved the beaches!
+285,129,135,1,A historical wonder
+286,35,827,3,Incredible monument!
+287,111,855,3,Loved the beaches!
+288,49,803,5,A historical wonder
+289,85,452,1,Incredible monument!
+290,60,743,3,Loved the beaches!
+291,76,101,5,A historical wonder
+292,75,720,4,Incredible monument!
+293,60,653,5,Loved the beaches!
+294,69,314,3,A historical wonder
+295,113,931,5,Incredible monument!
+296,109,47,4,Loved the beaches!
+297,93,753,3,A historical wonder
+298,52,763,2,Incredible monument!
+299,45,825,3,Loved the beaches!
+300,141,989,3,A historical wonder
+301,110,838,3,Incredible monument!
+302,131,729,1,Loved the beaches!
+303,120,131,3,A historical wonder
+304,87,792,5,Incredible monument!
+305,39,628,5,Loved the beaches!
+306,112,281,5,A historical wonder
+307,6,480,5,Incredible monument!
+308,84,88,5,Loved the beaches!
+309,47,225,1,A historical wonder
+310,137,109,3,Incredible monument!
+311,112,546,4,Loved the beaches!
+312,74,494,4,A historical wonder
+313,53,808,1,Incredible monument!
+314,35,782,1,Loved the beaches!
+315,114,973,2,A historical wonder
+316,110,492,1,Incredible monument!
+317,75,781,2,Loved the beaches!
+318,28,946,2,A historical wonder
+319,25,916,2,Incredible monument!
+320,88,848,4,Loved the beaches!
+321,25,475,4,A historical wonder
+322,6,516,4,Incredible monument!
+323,20,330,2,Loved the beaches!
+324,22,499,3,A historical wonder
+325,30,95,5,Incredible monument!
+326,115,365,5,Loved the beaches!
+327,33,620,5,A historical wonder
+328,68,510,5,Incredible monument!
+329,80,49,4,Loved the beaches!
+330,122,952,1,A historical wonder
+331,123,315,1,Incredible monument!
+332,68,699,2,Loved the beaches!
+333,107,180,5,A historical wonder
+334,21,434,1,Incredible monument!
+335,28,5,3,Loved the beaches!
+336,137,31,2,A historical wonder
+337,82,646,5,Incredible monument!
+338,6,297,2,Loved the beaches!
+339,110,196,1,A historical wonder
+340,82,334,5,Incredible monument!
+341,24,733,5,Loved the beaches!
+342,74,567,4,A historical wonder
+343,38,579,2,Incredible monument!
+344,143,615,4,Loved the beaches!
+345,8,778,3,A historical wonder
+346,143,904,3,Incredible monument!
+347,34,363,1,Loved the beaches!
+348,81,789,3,A historical wonder
+349,44,778,3,Incredible monument!
+350,7,697,3,Loved the beaches!
+351,84,4,1,A historical wonder
+352,91,673,2,Incredible monument!
+353,36,310,1,Loved the beaches!
+354,54,496,3,A historical wonder
+355,24,523,5,Incredible monument!
+356,18,233,2,Loved the beaches!
+357,52,73,1,A historical wonder
+358,7,334,2,Incredible monument!
+359,149,659,4,Loved the beaches!
+360,7,230,3,A historical wonder
+361,113,959,5,Incredible monument!
+362,140,822,3,Loved the beaches!
+363,132,397,4,A historical wonder
+364,123,259,4,Incredible monument!
+365,135,565,4,Loved the beaches!
+366,29,242,5,A historical wonder
+367,45,79,1,Incredible monument!
+368,17,367,3,Loved the beaches!
+369,61,165,5,A historical wonder
+370,141,216,2,Incredible monument!
+371,9,718,5,Loved the beaches!
+372,24,191,3,A historical wonder
+373,53,934,3,Incredible monument!
+374,8,322,3,Loved the beaches!
+375,54,340,3,A historical wonder
+376,110,398,2,Incredible monument!
+377,58,174,5,Loved the beaches!
+378,136,433,1,A historical wonder
+379,8,305,5,Incredible monument!
+380,129,288,5,Loved the beaches!
+381,18,476,4,A historical wonder
+382,87,616,1,Incredible monument!
+383,108,364,5,Loved the beaches!
+384,14,973,2,A historical wonder
+385,24,694,4,Incredible monument!
+386,16,47,3,Loved the beaches!
+387,21,222,1,A historical wonder
+388,130,218,2,Incredible monument!
+389,80,498,5,Loved the beaches!
+390,40,378,2,A historical wonder
+391,74,745,4,Incredible monument!
+392,89,961,2,Loved the beaches!
+393,77,283,2,A historical wonder
+394,121,807,2,Incredible monument!
+395,74,323,1,Loved the beaches!
+396,7,57,2,A historical wonder
+397,34,801,4,Incredible monument!
+398,146,216,3,Loved the beaches!
+399,141,184,5,A historical wonder
+400,82,104,2,Incredible monument!
+401,6,291,4,Loved the beaches!
+402,5,947,1,A historical wonder
+403,135,890,2,Incredible monument!
+404,89,107,4,Loved the beaches!
+405,81,671,3,A historical wonder
+406,78,89,5,Incredible monument!
+407,106,629,1,Loved the beaches!
+408,136,268,2,A historical wonder
+409,74,537,4,Incredible monument!
+410,116,15,5,Loved the beaches!
+411,21,259,2,A historical wonder
+412,112,872,5,Incredible monument!
+413,132,403,2,Loved the beaches!
+414,57,360,5,A historical wonder
+415,101,49,5,Incredible monument!
+416,76,26,5,Loved the beaches!
+417,31,814,5,A historical wonder
+418,106,708,3,Incredible monument!
+419,30,503,2,Loved the beaches!
+420,81,215,4,A historical wonder
+421,81,449,3,Incredible monument!
+422,14,509,4,Loved the beaches!
+423,40,148,3,A historical wonder
+424,112,730,4,Incredible monument!
+425,55,970,2,Loved the beaches!
+426,150,763,4,A historical wonder
+427,11,473,5,Incredible monument!
+428,1,540,5,Loved the beaches!
+429,129,463,1,A historical wonder
+430,148,852,4,Incredible monument!
+431,24,431,3,Loved the beaches!
+432,6,635,1,A historical wonder
+433,83,950,3,Incredible monument!
+434,66,994,5,Loved the beaches!
+435,123,273,4,A historical wonder
+436,73,554,5,Incredible monument!
+437,84,754,5,Loved the beaches!
+438,137,721,2,A historical wonder
+439,124,118,1,Incredible monument!
+440,150,945,4,Loved the beaches!
+441,17,101,3,A historical wonder
+442,17,399,2,Incredible monument!
+443,94,708,3,Loved the beaches!
+444,115,548,1,A historical wonder
+445,56,369,2,Incredible monument!
+446,132,322,1,Loved the beaches!
+447,138,989,4,A historical wonder
+448,7,306,5,Incredible monument!
+449,22,860,2,Loved the beaches!
+450,115,303,2,A historical wonder
+451,140,620,1,Incredible monument!
+452,94,563,2,Loved the beaches!
+453,123,956,5,A historical wonder
+454,69,212,5,Incredible monument!
+455,19,481,1,Loved the beaches!
+456,125,976,5,A historical wonder
+457,90,579,2,Incredible monument!
+458,119,252,3,Loved the beaches!
+459,144,474,3,A historical wonder
+460,116,976,2,Incredible monument!
+461,80,468,1,Loved the beaches!
+462,118,198,2,A historical wonder
+463,135,684,5,Incredible monument!
+464,128,136,2,Loved the beaches!
+465,138,84,2,A historical wonder
+466,51,935,4,Incredible monument!
+467,81,20,5,Loved the beaches!
+468,93,686,2,A historical wonder
+469,119,113,1,Incredible monument!
+470,44,318,2,Loved the beaches!
+471,20,385,3,A historical wonder
+472,89,399,2,Incredible monument!
+473,119,893,3,Loved the beaches!
+474,125,418,2,A historical wonder
+475,18,388,4,Incredible monument!
+476,130,952,2,Loved the beaches!
+477,22,281,4,A historical wonder
+478,74,645,2,Incredible monument!
+479,60,111,5,Loved the beaches!
+480,65,725,4,A historical wonder
+481,81,980,4,Incredible monument!
+482,111,552,3,Loved the beaches!
+483,123,798,2,A historical wonder
+484,50,524,5,Incredible monument!
+485,78,587,3,Loved the beaches!
+486,113,968,2,A historical wonder
+487,29,60,3,Incredible monument!
+488,7,611,4,Loved the beaches!
+489,100,452,3,A historical wonder
+490,123,628,2,Incredible monument!
+491,29,352,3,Loved the beaches!
+492,1,82,2,A historical wonder
+493,131,275,3,Incredible monument!
+494,102,277,4,Loved the beaches!
+495,9,386,4,A historical wonder
+496,25,697,4,Incredible monument!
+497,142,281,4,Loved the beaches!
+498,11,735,1,A historical wonder
+499,2,607,1,Incredible monument!
+500,123,473,4,Loved the beaches!
+501,74,53,5,A historical wonder
+502,131,725,4,Incredible monument!
+503,19,301,4,Loved the beaches!
+504,140,576,3,A historical wonder
+505,60,645,5,Incredible monument!
+506,88,752,2,Loved the beaches!
+507,121,472,2,A historical wonder
+508,27,640,2,Incredible monument!
+509,81,568,5,Loved the beaches!
+510,132,679,4,A historical wonder
+511,76,741,2,Incredible monument!
+512,96,295,2,Loved the beaches!
+513,39,590,2,A historical wonder
+514,31,418,3,Incredible monument!
+515,27,588,2,Loved the beaches!
+516,25,724,5,A historical wonder
+517,52,595,5,Incredible monument!
+518,75,126,2,Loved the beaches!
+519,85,381,3,A historical wonder
+520,134,146,3,Incredible monument!
+521,109,44,4,Loved the beaches!
+522,76,873,3,A historical wonder
+523,146,863,5,Incredible monument!
+524,16,459,1,Loved the beaches!
+525,112,386,5,A historical wonder
+526,47,522,3,Incredible monument!
+527,44,817,1,Loved the beaches!
+528,23,925,3,A historical wonder
+529,93,914,5,Incredible monument!
+530,28,565,1,Loved the beaches!
+531,39,627,4,A historical wonder
+532,14,151,2,Incredible monument!
+533,112,264,1,Loved the beaches!
+534,53,97,4,A historical wonder
+535,106,126,4,Incredible monument!
+536,149,740,4,Loved the beaches!
+537,91,273,5,A historical wonder
+538,113,804,2,Incredible monument!
+539,63,839,4,Loved the beaches!
+540,45,954,2,A historical wonder
+541,44,878,5,Incredible monument!
+542,34,80,1,Loved the beaches!
+543,123,805,4,A historical wonder
+544,130,881,2,Incredible monument!
+545,9,48,4,Loved the beaches!
+546,113,695,1,A historical wonder
+547,129,570,4,Incredible monument!
+548,79,608,1,Loved the beaches!
+549,97,70,3,A historical wonder
+550,3,700,4,Incredible monument!
+551,69,188,2,Loved the beaches!
+552,32,602,5,A historical wonder
+553,120,128,1,Incredible monument!
+554,132,788,5,Loved the beaches!
+555,74,627,5,A historical wonder
+556,50,628,1,Incredible monument!
+557,31,284,5,Loved the beaches!
+558,60,180,2,A historical wonder
+559,114,162,4,Incredible monument!
+560,11,256,5,Loved the beaches!
+561,26,437,3,A historical wonder
+562,135,51,1,Incredible monument!
+563,104,613,5,Loved the beaches!
+564,9,129,5,A historical wonder
+565,150,636,3,Incredible monument!
+566,106,947,3,Loved the beaches!
+567,52,784,2,A historical wonder
+568,106,603,3,Incredible monument!
+569,145,280,2,Loved the beaches!
+570,80,945,5,A historical wonder
+571,10,579,5,Incredible monument!
+572,122,408,2,Loved the beaches!
+573,46,493,5,A historical wonder
+574,94,825,1,Incredible monument!
+575,43,325,1,Loved the beaches!
+576,134,35,5,A historical wonder
+577,52,183,1,Incredible monument!
+578,66,287,4,Loved the beaches!
+579,29,387,2,A historical wonder
+580,84,320,3,Incredible monument!
+581,132,245,2,Loved the beaches!
+582,74,347,3,A historical wonder
+583,141,255,4,Incredible monument!
+584,139,295,2,Loved the beaches!
+585,58,929,2,A historical wonder
+586,37,882,5,Incredible monument!
+587,115,26,2,Loved the beaches!
+588,14,890,2,A historical wonder
+589,131,652,1,Incredible monument!
+590,12,194,2,Loved the beaches!
+591,54,796,4,A historical wonder
+592,137,647,3,Incredible monument!
+593,96,819,5,Loved the beaches!
+594,58,462,4,A historical wonder
+595,76,623,3,Incredible monument!
+596,26,814,3,Loved the beaches!
+597,98,202,2,A historical wonder
+598,6,15,5,Incredible monument!
+599,148,752,3,Loved the beaches!
+600,118,458,4,A historical wonder
+601,54,234,3,Incredible monument!
+602,102,577,4,Loved the beaches!
+603,51,494,1,A historical wonder
+604,71,233,1,Incredible monument!
+605,118,805,5,Loved the beaches!
+606,64,495,1,A historical wonder
+607,59,221,4,Incredible monument!
+608,106,847,3,Loved the beaches!
+609,92,205,3,A historical wonder
+610,106,327,2,Incredible monument!
+611,32,821,2,Loved the beaches!
+612,46,36,5,A historical wonder
+613,110,244,5,Incredible monument!
+614,109,877,3,Loved the beaches!
+615,87,854,4,A historical wonder
+616,36,485,2,Incredible monument!
+617,125,798,2,Loved the beaches!
+618,100,672,5,A historical wonder
+619,86,165,2,Incredible monument!
+620,136,193,1,Loved the beaches!
+621,7,712,3,A historical wonder
+622,96,130,5,Incredible monument!
+623,68,24,3,Loved the beaches!
+624,102,954,2,A historical wonder
+625,46,863,1,Incredible monument!
+626,55,939,5,Loved the beaches!
+627,29,4,1,A historical wonder
+628,11,468,4,Incredible monument!
+629,95,494,4,Loved the beaches!
+630,35,993,4,A historical wonder
+631,142,857,1,Incredible monument!
+632,123,706,5,Loved the beaches!
+633,66,365,4,A historical wonder
+634,112,672,3,Incredible monument!
+635,19,780,2,Loved the beaches!
+636,77,517,4,A historical wonder
+637,142,508,2,Incredible monument!
+638,48,121,2,Loved the beaches!
+639,74,807,4,A historical wonder
+640,20,445,1,Incredible monument!
+641,22,209,3,Loved the beaches!
+642,12,531,3,A historical wonder
+643,1,284,5,Incredible monument!
+644,123,551,1,Loved the beaches!
+645,124,102,5,A historical wonder
+646,130,668,1,Incredible monument!
+647,27,653,1,Loved the beaches!
+648,86,292,5,A historical wonder
+649,52,816,4,Incredible monument!
+650,125,828,2,Loved the beaches!
+651,22,828,1,A historical wonder
+652,62,429,2,Incredible monument!
+653,70,608,1,Loved the beaches!
+654,113,451,2,A historical wonder
+655,139,217,5,Incredible monument!
+656,145,639,1,Loved the beaches!
+657,148,331,5,A historical wonder
+658,62,452,2,Incredible monument!
+659,49,297,4,Loved the beaches!
+660,22,92,3,A historical wonder
+661,16,981,4,Incredible monument!
+662,111,377,1,Loved the beaches!
+663,57,574,5,A historical wonder
+664,47,220,4,Incredible monument!
+665,48,165,2,Loved the beaches!
+666,1,479,1,A historical wonder
+667,31,961,5,Incredible monument!
+668,125,426,2,Loved the beaches!
+669,130,174,1,A historical wonder
+670,44,841,5,Incredible monument!
+671,51,840,2,Loved the beaches!
+672,2,39,5,A historical wonder
+673,44,984,1,Incredible monument!
+674,56,84,2,Loved the beaches!
+675,64,134,2,A historical wonder
+676,14,953,4,Incredible monument!
+677,109,677,3,Loved the beaches!
+678,77,258,1,A historical wonder
+679,54,755,2,Incredible monument!
+680,110,936,4,Loved the beaches!
+681,68,580,3,A historical wonder
+682,34,179,1,Incredible monument!
+683,47,100,3,Loved the beaches!
+684,121,494,5,A historical wonder
+685,91,846,4,Incredible monument!
+686,65,678,3,Loved the beaches!
+687,79,324,3,A historical wonder
+688,99,556,5,Incredible monument!
+689,41,839,2,Loved the beaches!
+690,107,797,4,A historical wonder
+691,58,520,3,Incredible monument!
+692,119,671,3,Loved the beaches!
+693,111,314,2,A historical wonder
+694,106,696,1,Incredible monument!
+695,21,624,5,Loved the beaches!
+696,76,916,3,A historical wonder
+697,126,147,5,Incredible monument!
+698,54,855,1,Loved the beaches!
+699,45,163,1,A historical wonder
+700,96,160,1,Incredible monument!
+701,61,184,4,Loved the beaches!
+702,59,118,2,A historical wonder
+703,40,594,3,Incredible monument!
+704,112,993,5,Loved the beaches!
+705,140,359,3,A historical wonder
+706,105,454,5,Incredible monument!
+707,149,635,1,Loved the beaches!
+708,97,265,3,A historical wonder
+709,64,779,2,Incredible monument!
+710,23,351,1,Loved the beaches!
+711,72,469,4,A historical wonder
+712,38,377,2,Incredible monument!
+713,70,61,2,Loved the beaches!
+714,4,843,2,A historical wonder
+715,4,168,4,Incredible monument!
+716,114,745,3,Loved the beaches!
+717,135,934,5,A historical wonder
+718,10,329,2,Incredible monument!
+719,75,314,3,Loved the beaches!
+720,72,576,5,A historical wonder
+721,148,49,1,Incredible monument!
+722,136,190,2,Loved the beaches!
+723,126,948,4,A historical wonder
+724,47,36,1,Incredible monument!
+725,67,468,3,Loved the beaches!
+726,94,225,2,A historical wonder
+727,123,398,1,Incredible monument!
+728,128,344,5,Loved the beaches!
+729,139,158,1,A historical wonder
+730,56,871,1,Incredible monument!
+731,47,303,1,Loved the beaches!
+732,148,655,3,A historical wonder
+733,25,188,1,Incredible monument!
+734,89,780,1,Loved the beaches!
+735,105,447,4,A historical wonder
+736,24,762,1,Incredible monument!
+737,110,165,4,Loved the beaches!
+738,125,418,1,A historical wonder
+739,141,464,1,Incredible monument!
+740,47,908,5,Loved the beaches!
+741,144,838,1,A historical wonder
+742,103,454,3,Incredible monument!
+743,104,782,1,Loved the beaches!
+744,100,746,2,A historical wonder
+745,112,616,2,Incredible monument!
+746,21,191,2,Loved the beaches!
+747,99,969,5,A historical wonder
+748,53,862,1,Incredible monument!
+749,38,66,2,Loved the beaches!
+750,7,832,1,A historical wonder
+751,58,140,4,Incredible monument!
+752,96,524,5,Loved the beaches!
+753,132,898,5,A historical wonder
+754,50,626,3,Incredible monument!
+755,110,182,5,Loved the beaches!
+756,39,914,5,A historical wonder
+757,72,14,5,Incredible monument!
+758,24,199,5,Loved the beaches!
+759,65,454,5,A historical wonder
+760,2,873,4,Incredible monument!
+761,113,478,4,Loved the beaches!
+762,95,884,4,A historical wonder
+763,82,315,1,Incredible monument!
+764,102,789,1,Loved the beaches!
+765,56,836,2,A historical wonder
+766,46,753,4,Incredible monument!
+767,26,894,4,Loved the beaches!
+768,150,52,3,A historical wonder
+769,74,791,2,Incredible monument!
+770,68,373,2,Loved the beaches!
+771,66,869,2,A historical wonder
+772,109,465,1,Incredible monument!
+773,131,639,3,Loved the beaches!
+774,22,187,4,A historical wonder
+775,122,252,4,Incredible monument!
+776,72,984,5,Loved the beaches!
+777,62,859,3,A historical wonder
+778,124,134,4,Incredible monument!
+779,69,886,1,Loved the beaches!
+780,138,427,3,A historical wonder
+781,145,665,3,Incredible monument!
+782,106,189,5,Loved the beaches!
+783,69,4,3,A historical wonder
+784,21,642,5,Incredible monument!
+785,55,622,4,Loved the beaches!
+786,120,489,5,A historical wonder
+787,44,898,4,Incredible monument!
+788,118,261,2,Loved the beaches!
+789,129,867,1,A historical wonder
+790,108,142,2,Incredible monument!
+791,74,149,3,Loved the beaches!
+792,24,433,4,A historical wonder
+793,90,191,2,Incredible monument!
+794,12,23,4,Loved the beaches!
+795,44,140,2,A historical wonder
+796,106,561,3,Incredible monument!
+797,8,70,4,Loved the beaches!
+798,82,705,5,A historical wonder
+799,21,4,2,Incredible monument!
+800,143,541,1,Loved the beaches!
+801,72,213,1,A historical wonder
+802,83,646,4,Incredible monument!
+803,56,479,4,Loved the beaches!
+804,139,197,1,A historical wonder
+805,118,255,1,Incredible monument!
+806,22,580,4,Loved the beaches!
+807,96,21,3,A historical wonder
+808,127,506,3,Incredible monument!
+809,68,872,2,Loved the beaches!
+810,138,272,1,A historical wonder
+811,123,727,5,Incredible monument!
+812,12,402,2,Loved the beaches!
+813,120,258,3,A historical wonder
+814,89,944,1,Incredible monument!
+815,95,324,5,Loved the beaches!
+816,120,709,4,A historical wonder
+817,10,917,1,Incredible monument!
+818,102,470,2,Loved the beaches!
+819,18,852,1,A historical wonder
+820,29,961,2,Incredible monument!
+821,46,410,4,Loved the beaches!
+822,130,385,2,A historical wonder
+823,59,878,4,Incredible monument!
+824,12,924,3,Loved the beaches!
+825,75,641,4,A historical wonder
+826,66,538,1,Incredible monument!
+827,133,242,2,Loved the beaches!
+828,4,364,4,A historical wonder
+829,9,307,4,Incredible monument!
+830,134,834,3,Loved the beaches!
+831,30,126,4,A historical wonder
+832,54,831,5,Incredible monument!
+833,80,40,2,Loved the beaches!
+834,28,730,5,A historical wonder
+835,15,794,3,Incredible monument!
+836,46,52,5,Loved the beaches!
+837,82,877,4,A historical wonder
+838,13,644,1,Incredible monument!
+839,70,705,4,Loved the beaches!
+840,150,660,2,A historical wonder
+841,132,971,5,Incredible monument!
+842,128,666,1,Loved the beaches!
+843,91,970,3,A historical wonder
+844,52,449,4,Incredible monument!
+845,76,749,3,Loved the beaches!
+846,121,428,1,A historical wonder
+847,130,755,3,Incredible monument!
+848,52,451,2,Loved the beaches!
+849,122,71,1,A historical wonder
+850,103,799,4,Incredible monument!
+851,15,765,4,Loved the beaches!
+852,56,286,2,A historical wonder
+853,140,538,3,Incredible monument!
+854,129,95,4,Loved the beaches!
+855,81,961,5,A historical wonder
+856,42,667,3,Incredible monument!
+857,47,414,5,Loved the beaches!
+858,133,693,4,A historical wonder
+859,55,560,3,Incredible monument!
+860,107,447,3,Loved the beaches!
+861,126,446,2,A historical wonder
+862,88,825,4,Incredible monument!
+863,118,583,4,Loved the beaches!
+864,56,31,4,A historical wonder
+865,18,328,4,Incredible monument!
+866,82,588,5,Loved the beaches!
+867,100,788,2,A historical wonder
+868,128,558,5,Incredible monument!
+869,4,126,5,Loved the beaches!
+870,121,70,3,A historical wonder
+871,118,21,3,Incredible monument!
+872,20,274,2,Loved the beaches!
+873,79,529,4,A historical wonder
+874,150,579,5,Incredible monument!
+875,55,180,1,Loved the beaches!
+876,2,307,5,A historical wonder
+877,131,786,4,Incredible monument!
+878,144,601,2,Loved the beaches!
+879,85,813,4,A historical wonder
+880,59,799,3,Incredible monument!
+881,55,340,5,Loved the beaches!
+882,72,244,4,A historical wonder
+883,10,423,1,Incredible monument!
+884,76,821,3,Loved the beaches!
+885,46,40,4,A historical wonder
+886,112,678,4,Incredible monument!
+887,60,847,2,Loved the beaches!
+888,145,55,2,A historical wonder
+889,134,996,5,Incredible monument!
+890,4,460,4,Loved the beaches!
+891,18,898,5,A historical wonder
+892,100,76,5,Incredible monument!
+893,104,916,2,Loved the beaches!
+894,32,190,5,A historical wonder
+895,40,165,5,Incredible monument!
+896,113,584,1,Loved the beaches!
+897,24,161,2,A historical wonder
+898,97,948,1,Incredible monument!
+899,31,579,4,Loved the beaches!
+900,103,508,1,A historical wonder
+901,95,447,1,Incredible monument!
+902,34,480,4,Loved the beaches!
+903,90,443,5,A historical wonder
+904,66,729,4,Incredible monument!
+905,112,710,1,Loved the beaches!
+906,3,664,5,A historical wonder
+907,15,277,4,Incredible monument!
+908,48,937,5,Loved the beaches!
+909,17,917,5,A historical wonder
+910,95,760,2,Incredible monument!
+911,121,418,2,Loved the beaches!
+912,91,461,5,A historical wonder
+913,62,803,5,Incredible monument!
+914,61,862,3,Loved the beaches!
+915,146,864,3,A historical wonder
+916,106,444,1,Incredible monument!
+917,74,117,2,Loved the beaches!
+918,120,95,2,A historical wonder
+919,113,287,4,Incredible monument!
+920,39,471,4,Loved the beaches!
+921,25,674,4,A historical wonder
+922,38,461,5,Incredible monument!
+923,90,4,5,Loved the beaches!
+924,64,226,1,A historical wonder
+925,102,261,4,Incredible monument!
+926,149,925,1,Loved the beaches!
+927,79,451,3,A historical wonder
+928,64,584,4,Incredible monument!
+929,69,321,5,Loved the beaches!
+930,22,532,1,A historical wonder
+931,40,252,3,Incredible monument!
+932,134,220,3,Loved the beaches!
+933,149,70,5,A historical wonder
+934,43,840,1,Incredible monument!
+935,126,847,2,Loved the beaches!
+936,8,901,3,A historical wonder
+937,76,826,3,Incredible monument!
+938,135,993,3,Loved the beaches!
+939,19,798,2,A historical wonder
+940,45,513,5,Incredible monument!
+941,90,842,4,Loved the beaches!
+942,60,475,3,A historical wonder
+943,91,188,1,Incredible monument!
+944,110,68,3,Loved the beaches!
+945,103,889,5,A historical wonder
+946,114,446,1,Incredible monument!
+947,121,521,5,Loved the beaches!
+948,89,702,4,A historical wonder
+949,24,990,1,Incredible monument!
+950,63,569,2,Loved the beaches!
+951,139,240,4,A historical wonder
+952,122,350,1,Incredible monument!
+953,125,78,3,Loved the beaches!
+954,50,936,3,A historical wonder
+955,15,471,1,Incredible monument!
+956,54,682,3,Loved the beaches!
+957,115,311,1,A historical wonder
+958,123,620,4,Incredible monument!
+959,113,16,2,Loved the beaches!
+960,102,523,3,A historical wonder
+961,112,781,1,Incredible monument!
+962,64,820,5,Loved the beaches!
+963,25,970,5,A historical wonder
+964,35,650,5,Incredible monument!
+965,118,46,2,Loved the beaches!
+966,122,454,1,A historical wonder
+967,79,942,1,Incredible monument!
+968,145,695,4,Loved the beaches!
+969,47,668,3,A historical wonder
+970,51,58,5,Incredible monument!
+971,127,439,3,Loved the beaches!
+972,118,63,1,A historical wonder
+973,92,383,4,Incredible monument!
+974,86,237,5,Loved the beaches!
+975,1,736,5,A historical wonder
+976,91,741,4,Incredible monument!
+977,139,338,1,Loved the beaches!
+978,90,20,3,A historical wonder
+979,32,389,5,Incredible monument!
+980,64,603,1,Loved the beaches!
+981,90,86,1,A historical wonder
+982,5,111,2,Incredible monument!
+983,95,616,1,Loved the beaches!
+984,144,246,2,A historical wonder
+985,29,994,4,Incredible monument!
+986,9,505,3,Loved the beaches!
+987,150,170,1,A historical wonder
+988,5,908,3,Incredible monument!
+989,12,858,4,Loved the beaches!
+990,20,464,1,A historical wonder
+991,30,850,3,Incredible monument!
+992,80,857,5,Loved the beaches!
+993,41,661,3,A historical wonder
+994,37,125,5,Incredible monument!
+995,19,346,5,Loved the beaches!
+996,140,140,3,A historical wonder
+997,138,858,5,Incredible monument!
+998,57,839,2,Loved the beaches!
+999,45,253,4,A historical wonder

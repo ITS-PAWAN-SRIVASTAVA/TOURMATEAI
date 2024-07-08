@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TourMateAI - Your Travel Buddy</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/maplogo.png') }}" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <df-messenger intent="WELCOME" chat-title="TourMateAI" agent-id="ad89cdcb-4ec4-4300-b970-71e875ecb38e"
+        language-code="en"></df-messenger>
+
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+            <div class="container-fluid mx-lg-5">
+                <a class="navbar-brand fs-4" href="#">
+                    <img src="{{ url_for('static', filename='img/maplogo.png') }}" alt="" height="40px">
+                    <span style="color: white;">TourMate</span><span
+                        style="color: red; font-size: 25px !important;">AI</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <ul class="navbar-nav fs-5">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#popular-cities"
+                                style="font-family: 'Tahoma', sans-serif !important; text-decoration: underline;">About
+                                Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact"
+                                style="font-family: 'Tahoma', sans-serif !important; text-decoration: underline;">Contact
+                                Us</a>
+                        </li>
+                        {% if session.logged_in %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="/logout"
+                                style="font-family: 'Tahoma', sans-serif !important; text-decoration: underline;">Logout</a>
+                        </li>
+                        {% else %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="/login"
+                                style="font-family: 'Tahoma', sans-serif !important; text-decoration: underline;">Login</a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navbar -->
+
+        <!-- Banner content -->
+        <div class="container">
+            <div class="banner-content">
+                <h1 id="headername">
+                    <span style="color: white;">TourMate</span><span class="text-red">AI</span>
+                    <br>
+                </h1>
+                <h1>
+                    <div style="color:white">Explore the World with <span style="color: red;">Confidence.</span>
+                    </div>
+                </h1>
+                <p class="mt-3" style="color: antiquewhite; font-size: 20px;">
+                    With TourMateAI, embark on unforgettable journeys, discover hidden gems,
+                    and create lasting memories. Let our AI-powered platform guide you to your
+                    next adventure with ease and excitement.
+                </p>
+                <a href="#journey" class="btn btn-lg btn-primary" id="travelsearchbutton">Travel Search</a>
+            </div>
+        </div>
+        <!-- End Banner content -->
+    </header>
+
+    <section id="popular-cities" class="py-5">
+        <!-- Container -->
+        <div class="container py-5">
+
+            <h3 class="text-red">Discover Popular Indian Destinations</h3>
+            <p class="mt-3">
+                Explore our curated list of popular Indian destinations, handpicked just for you. Whether you're seeking
+                adventure, spiritual solace, or cultural immersion, TourMateAI has the perfect destination waiting for
+                you
+                in India.
+            </p>
+
+            <!-- Row -->
+            <div class="row">
+
+                <!-- Column -->
+                <div class="col-md-4 p-3">
+                    <div class="card border-0">
+                        <div class="img-with-cost">
+                            <img src="{{ url_for('static', filename='img/goa.jpg') }}" class="img-fluid"
+                                alt="Goa, India">
+                            <div class="cost" data-cost="₹ XYZ"></div>
+                        </div>
+                        <div class="card-body py-3">
+                            <p class="fw-bold">Goa, India</p>
+                            <p>
+                                Experience the vibrant culture, stunning beaches, and lively nightlife of Goa, India's
+                                favorite holiday destination.
+                            </p>
+                            <a href="#journey" class="text-red text-decoration-none">
+                                Start Your Journey &RightArrow;
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Column -->
+
+                <!-- Column -->
+                <div class="col-md-4 p-3">
+                    <div class="card border-0">
+                        <div class="img-with-cost">
+                            <img src="{{ url_for('static', filename='img/leh.jpg') }}" class="img-fluid"
+                                alt="Leh, Ladakh, India">
+                            <div class="cost" data-cost="₹ XYZ"></div>
+                        </div>
+                        <div class="card-body py-3">
+                            <p class="fw-bold">Leh, Ladakh, India</p>
+                            <p>
+                                Discover the breathtaking landscapes, serene monasteries, and adventurous treks of Leh
+                                and Ladakh.
+                            </p>
+                            <a href="#journey" class="text-red text-decoration-none">
+                                Start Your Journey &RightArrow;
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Column -->
+
+                <!-- Column -->
+                <div class="col-md-4 p-3">
+                    <div class="card border-0">
+                        <div class="img-with-cost">
+                            <img src="{{ url_for('static', filename='img/varanasi.jpg') }}" class="img-fluid"
+                                alt="Varanasi, India">
+                            <div class="cost" data-cost="₹ XYZ"></div>
+                        </div>
+                        <div class="card-body py-3">
+                            <p class="fw-bold">Varanasi, India</p>
+                            <p>
+                                Immerse yourself in the spiritual ambiance, ancient temples, and sacred ghats of
+                                Varanasi,
+                                the oldest living city in the world.
+                            </p>
+                            <a href="#journey" class="text-red text-decoration-none">
+                                Start Your Journey &RightArrow;
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Column -->
+
+            </div>
+            <!-- End Row -->
+
+        </div>
+        <!-- End Container -->
+
+        <!-- Create journey -->
+        <div id="journey" class="container text-center py-5">
+            <h1 class="p-0 text-red">Plan Your Next Adventure</h1>
+            <p>Get started by filling out the form below:</p>
+
+            <form id="tripForm" method="POST" action="/result" onsubmit="return validateForm()">
+                <div class="form-group">
+                    <label for="destination">Destination</label>
+                    <input type="text" class="form-control" id="destinationInput" name="place_name"
+                        placeholder="Enter your Destination" list="destinationSuggestions" autocomplete="off" required>
+                    <div id="destinationSuggestions" class="suggestions"></div>
+                </div>
+                <div class="form-group date-group">
+                    <label for="startDate">Start Date</label>
+                    <input type="date" class="form-control" id="startDate" name="startDate" required>
+                    <label for="endDate">End Date</label>
+                    <input type="date" class="form-control" id="endDate" name="endDate" required>
+                </div>
+                <div class="form-group">
+                    <label for="tripType">Trip Type</label>
+                    <select class="form-control" id="tripType" name="tripType" required>
+                        <option value="" disabled selected hidden>Select Type</option>
+                        <option value="Historical">Historical</option>
+                        <option value="Nature">Nature</option>
+                        <option value="Beach">Beach</option>
+                        <option value="Adventure">Adventure</option>
+                        <option value="Unique">Unique</option>
+                        <option value="Wildlife">Wildlife</option>
+                        <option value="City">City</option>
+                        <option value="Spiritual">Spiritual</option>
+                        <option value="Entertainment">Entertainment</option>
+                        <option value="Village">Village</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="budget">Budget</label>
+                    <input type="text" class="form-control" id="budget" name="budget" placeholder="Enter in Rs."
+                        required>
+                    <small id="budgetValidationMessage" class="form-text text-danger" style="display: none;">Budget
+                        should be a numerical value</small>
+                </div>
+                <button type="submit" class="btn btn-primary">Create Trip</button>
+            </form>
+        </div>
+        <!-- End Journey -->
+
+    </section>
+
+    <!-- Create footer -->
+    <footer class="bg-dark text-light" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h1 class="mb-5">
+                        <img src="{{ url_for('static', filename='img/maplogo.png') }}" alt="" height="40" width="40">
+                        TourMate<span class="text-red">AI</span>
+                    </h1>
+                    <p>Embark on unforgettable journeys, discover hidden gems, and create lasting memories with
+                        TourMateAI. Let TourMateAI be your ultimate travel companion, guiding you every step of the way.
+                    </p>
+                    <div class="social-icons mt-4">
+                        <a href="#">
+                            <img src="{{ url_for('static', filename='img/icons/Facebook.svg') }}" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="{{ url_for('static', filename='img/icons/twitt.svg') }}" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="{{ url_for('static', filename='img/icons/insta.svg') }}" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="{{ url_for('static', filename='img/icons/linkin.svg') }}" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <h1 class="mb-5">
+                        Service
+                    </h1>
+                    <a href="#" class="fs-5 text-light text-decoration-none">About Us</a>
+                    <br>
+                    <br>
+                    <a href="#" class="fs-5 text-light text-decoration-none">Our Services</a>
+                    <br>
+                    <br>
+                    <a href="#contact" class="fs-5 text-light text-decoration-none">Contact Us</a>
+                    <br>
+                </div>
+                <div class="col-md-4">
+                    <h1 class="mb-5">
+                        Contact
+                    </h1>
+                    <p class="fs-5 mb-5">
+                        <img src="{{ url_for('static', filename='img/icons/location.svg') }}" width="30px" alt="">
+                        Plot 777, Fort Mount Back Road.
+                    </p>
+                    <p class="fs-5 mb-5">
+                        <img src="{{ url_for('static', filename='img/icons/phone.svg') }}" width="30px" alt="">
+                        +999 999 999
+                    </p>
+                    <p class="fs-5 mb-5">
+                        <img src="{{ url_for('static', filename='img/icons/email.svg') }}" width="30px" alt="">
+                        tourmateai@gmail.com
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Bootstrap Bundle -->
+    <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <script>
+        function validateForm() {
+            var budgetInput = document.getElementById('budget').value;
+            if (!isNaN(budgetInput) && parseFloat(budgetInput) >= 1000) {
+                document.getElementById('budgetValidationMessage').innerText = '';
+                document.getElementById('budgetValidationMessage').style.display = 'none';
+                return true;  // Submit the form
+            } else if (isNaN(budgetInput)) {
+                document.getElementById('budgetValidationMessage').innerText = 'Budget should be a numerical value';
+                document.getElementById('budgetValidationMessage').style.display = 'block';
+                return false;  // Prevent form submission
+            } else {
+                document.getElementById('budgetValidationMessage').innerText = 'Budget should be at least ₹1000';
+                document.getElementById('budgetValidationMessage').style.display = 'block';
+                return false;  // Prevent form submission
+            }
+        }
+    </script>
+
+</body>
+
+</html>
