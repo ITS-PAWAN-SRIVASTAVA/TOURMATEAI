@@ -14,7 +14,9 @@ Key Features
 
 •	Trip Management: Users can save and manage their trip details within the application, allowing for easy access to past itineraries and future travel plans.
 
+
 Getting Started
+
 •	To use TourMateAI, users need to follow these simple steps:
 
 •	Sign Up: New users can create an account by providing basic information, including their name, email, password, and user type.
