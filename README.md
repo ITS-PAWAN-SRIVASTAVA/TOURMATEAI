@@ -3,6 +3,7 @@
 Overview
 Tourmate AI is a cutting-edge web application designed to simplify travel planning by leveraging AI technology. It assists users in creating personalized travel itineraries, making it an essential tool for travellers seeking unique experiences tailored to their preferences.
 
+
 Key Features
 •	User Authentication: TourMateAI includes a secure authentication system that allows users to sign up, log in, and manage their profiles. This ensures that personal information and travel plans are protected and accessible only to the user.
 
@@ -29,6 +30,7 @@ Getting Started
 
 •	Explore and Manage Trips: Users can explore recommended locations, save their favorite itineraries, and revisit them as needed.
 
+
 Technologies Used :
 •	Flask: A micro web framework for Python that handles server-side logic and web routing.
 •	TextBlob: A library for processing textual data, utilized for sentiment analysis.
@@ -37,13 +39,18 @@ Technologies Used :
 •	Dialogflow: A natural language processing platform used for creating the interactive chatbot feature.
 •	Waitress: A production-quality WSGI server to run the application smoothly.
 
+
 Installation
 •	To run TourMateAI locally, follow these steps:
 •	Ensure you have Python installed on your system.
 •	Install the required packages using pip.
 •	Set up a MySQL database and configure the connection details.
 •	Clone the repository and run the application.
-•	For detailed instructions, refer to the project’s documentation.
+•	Navigate to the project directory in your terminal.
+•	Run the `app.py` file: python app.py
+•	Open your web browser and go to `http://127.0.0.1:5000/` to access the TourMateAI web application.
+
+
 
 Conclusion
 TourMateAI is an innovative solution for travelers looking to streamline their trip planning process. By combining user-friendly features with powerful AI technology, it offers a personalized experience that caters to individual preferences and needs. Whether you're planning a solo adventure, a family vacation, or a business trip, TourMateAI is here to make your travel planning efficient and enjoyable.
